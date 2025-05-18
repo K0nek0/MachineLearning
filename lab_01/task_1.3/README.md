@@ -1,1 +1,1 @@
-![screenshot](tasks_1.3.png)
+![screenshot](task_1.3.png)
