@@ -1,0 +1,1 @@
+![screenshot](task_5.2.png)
